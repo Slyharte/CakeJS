@@ -1,5 +1,3 @@
-namespace('methods');
-
 var Route = function (name, directory) {
 
 };
